@@ -36,5 +36,5 @@ PRODIGY_DS_01/
 ```
 
 ## Author
-**Sargun (Divsargun Kaur)** — B.Tech, NIT Jalandhar (Batch 2029)  
+**Divsargun Kaur** — B.Tech, NIT Jalandhar (Batch 2029)  
 [LinkedIn](https://linkedin.com/in/divsargunkaur) · [GitHub](https://github.com/divsargun1803)
